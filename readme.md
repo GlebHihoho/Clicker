@@ -2,7 +2,7 @@
 
 Платформа Android/iOS. Unity 2021+
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc84d522-e8b2-4a60-a567-dbbc55271820/Untitled.png)
+![Untitled](https://silky-eclipse-b8a.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fbc84d522-e8b2-4a60-a567-dbbc55271820%2FUntitled.png?id=6c8009a3-6473-47e9-8324-3375e93f08a0&table=block&spaceId=7e5e02b1-884f-41e7-8365-a71997a2ae1e&width=2000&userId=&cache=v2)
 
 **Задача**
 
