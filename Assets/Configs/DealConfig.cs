@@ -4,6 +4,8 @@ using UnityEngine;
 [Serializable]
 public class DealConfig
 {
+    public int Id;
+
     public string Name;
     public float Delay;
     public float BasicCost;

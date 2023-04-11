@@ -10,10 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: New Levels Config
+  m_Name: Deals
   m_EditorClassIdentifier: Assembly-CSharp::LevelsConfig
   _levels:
-  - Name: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
+  - Id: 1
+    Name: "\u041F\u0440\u0430\u0447\u0435\u0447\u043D\u0430\u044F"
     Delay: 3
     BasicCost: 3
     BasicIncome: 3
@@ -26,7 +27,8 @@ MonoBehaviour:
     UpgradeCost2: 12
     UpgradeMultiplier2: 12
     HasUpgrade2: 0
-  - Name: "\u041C\u0430\u0433\u0430\u0437\u0438\u043D \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u0442\u043E\u0432\u0430\u0440\u043E\u0432
+  - Id: 2
+    Name: "\u041C\u0430\u0433\u0430\u0437\u0438\u043D \u044D\u043B\u0435\u043A\u0442\u0440\u043E\u0442\u043E\u0432\u0430\u0440\u043E\u0432
       \"\u0411\u0435\u043B\u0412\u0430\u0440\""
     Delay: 6
     BasicCost: 40
@@ -41,7 +43,8 @@ MonoBehaviour:
     UpgradeCost2: 160
     UpgradeMultiplier2: 160
     HasUpgrade2: 0
-  - Name: "\u0421\u0435\u0442\u044C \u0431\u044B\u0441\u0442\u0440\u043E\u0433\u043E
+  - Id: 3
+    Name: "\u0421\u0435\u0442\u044C \u0431\u044B\u0441\u0442\u0440\u043E\u0433\u043E
       \u043F\u0438\u0442\u0430\u043D\u0438\u044F \"\u0425\u0443\u0442\u043A\u0430
       \u0421\u043C\u0430\u0447\u043D\u0430\""
     Delay: 10
@@ -56,7 +59,8 @@ MonoBehaviour:
     UpgradeCost2: 800
     UpgradeMultiplier2: 400
     HasUpgrade2: 0
-  - Name: "\u0428\u0430\u0443\u0440\u043C\u0430 \u0443 \u0410\u043C\u0438\u0440\u0430"
+  - Id: 4
+    Name: "\u0428\u0430\u0443\u0440\u043C\u0430 \u0443 \u0410\u043C\u0438\u0440\u0430"
     Delay: 17
     BasicCost: 1000
     BasicIncome: 1000
@@ -69,7 +73,8 @@ MonoBehaviour:
     UpgradeCost2: 4000
     UpgradeMultiplier2: 400
     HasUpgrade2: 0
-  - Name: "\u0421\u0422\u041E 1\u044B\u0439 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440"
+  - Id: 5
+    Name: "\u0421\u0422\u041E 1\u044B\u0439 \u043A\u0438\u043B\u043E\u043C\u0435\u0442\u0440"
     Delay: 30
     BasicCost: 5000
     BasicIncome: 5000
