@@ -1,24 +1,11 @@
-using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-[Serializable]
-public class DealConfig
+[CreateAssetMenu(menuName = nameof(Deal))]
+public class DealConfig : ScriptableObject
 {
-    public int Id;
+    public Deal deal => _deal;
 
-    public string Name;
-    public float Delay;
-    public float BasicCost;
-    public float BasicIncome;
-    public int Level;
-
-    public string UpgradeName1;
-    public float UpgradeCost1;
-    public float UpgradeMultiplier1;
-    public bool HasUpgrade1;
-
-    public string UpgradeName2;
-    public float UpgradeCost2;
-    public float UpgradeMultiplier2;
-    public bool HasUpgrade2;
+    [SerializeField] private Deal _deal;
 }
