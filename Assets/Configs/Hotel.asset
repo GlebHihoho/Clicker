@@ -18,12 +18,12 @@ MonoBehaviour:
     Delay: 7
     BasicCost: 100
     BasicIncome: 100
-    Level: 1
+    Level: 2
     UpgradeName1: "\u041F\u0438\u0432\u043D\u0443\u0445\u0430"
     UpgradeCost1: 200
     UpgradeMultiplier1: 200
-    HasUpgrade1: 0
+    HasUpgrade1: 1
     UpgradeName2: "\u041F\u0435\u0447\u0430\u0442\u043D\u044B\u0439 \u0446\u0435\u043D\u0442\u0440"
     UpgradeCost2: 300
     UpgradeMultiplier2: 200
-    HasUpgrade2: 0
+    HasUpgrade2: 1

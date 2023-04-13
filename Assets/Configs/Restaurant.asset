@@ -17,12 +17,12 @@ MonoBehaviour:
     Delay: 3
     BasicCost: 3
     BasicIncome: 3
-    Level: 1
+    Level: 7
     UpgradeName1: "\u0411\u0435\u043B\u044F\u0448\u0438"
     UpgradeCost1: 10
     UpgradeMultiplier1: 10
-    HasUpgrade1: 0
+    HasUpgrade1: 1
     UpgradeName2: "\u0421\u043C\u0430\u0436\u0435\u043D\u043A\u0438"
     UpgradeCost2: 10
     UpgradeMultiplier2: 10
-    HasUpgrade2: 0
+    HasUpgrade2: 1
